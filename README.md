@@ -4,7 +4,7 @@ Bu proje, NBA efsanelerinin istatistiklerini ve bilgilerini gösteren bir React 
 
 ## Özellikler
 
-- NBA efsanelerinin resimleri, isimleri ve istatistikleri gösterilir. <i class="fa-solid fa-basketball"></i>
+- NBA efsanelerinin resimleri, isimleri ve istatistikleri gösterilir. fa-solid fa-basketball
 - Arama özelliği ile oyuncuları isimlere göre filtreleyebilirsiniz.
 - Oyuncu kartlarına tıkladığınızda, ilgili oyuncunun istatistiklerini daha ayrıntılı bir şekilde görüntüleyebilirsiniz.
 
